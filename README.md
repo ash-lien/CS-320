@@ -1,1 +1,5 @@
-# CS-320
+I can ensure that my code, program, or software is functional and secure by testing frequently during development. Some examples of how this can be done are by doing manual testing, functional testing, system testing, and performance testing. The software testing technique used would be determined by the individual project which would be best for that situation.
+
+I can interpret user needs and incorperate them into a program by fully understanding what the requirements are for the program. It is important in the beginning to get from the customer what the goals of the project are, if there are any system requirements or limitations, and exactly what they want. After the requirements are set, then I would incorperate them into the program.
+
+I approach designing software by following along with the software development lifecyle. By following along each stage of the development lifecycle I can plan the project, gather the system requirements, design the software, develop the code, test, then deploy the final project. After that is done, it is just maintaining the software. 
